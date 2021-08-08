@@ -1,3 +1,4 @@
+//Clase para que contenga los atributos de valor y cantidad
 class Billete {
     constructor(v, c) {
         this.valor = v;
